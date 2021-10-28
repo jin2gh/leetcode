@@ -4,7 +4,8 @@
  * @param {number} target
  * @return {number[]}
  */
- const twoSum = function(nums, target) {
+
+const twoSum = function(nums, target) {
   for (let i = 0; i < nums.length; i++) {
     let another = target - nums[i]
     for (let j = i + 1; j < nums.length; j++) {
