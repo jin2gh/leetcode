@@ -13,3 +13,5 @@ const insertionSort = nums => {
     }
   }
 }
+
+module.exports = insertionSort
