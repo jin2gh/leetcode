@@ -27,7 +27,7 @@ class SinglyLinkedList {
     return null
   }
 
-  delete (index) {
+  delete(index) {
     const prev = this.findKth(index - 1)
     const current = this.findKth(index)
     if (current) {
@@ -47,7 +47,7 @@ class SinglyLinkedList {
       }
       this.size += 1
     } else {
-      throw Error('不存在直接前驱结点')
+      throw Error('Immediate predecessor element does not exsit')
     }
   }
 }
@@ -59,12 +59,6 @@ class Node {
   }
 }
 
-const sll = new SinglyLinkedList()
-sll.insert(1, { name: 1 })
-sll.insert(2, { name: 'after 1' })
-sll.insert(1, { name: 2 })
-sll.insert(2, { name: 3 })
-console.log(sll.findKth(4))
 
 module.exports = {
   SinglyLinkedList,
