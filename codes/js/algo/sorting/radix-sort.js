@@ -2,7 +2,7 @@
  * 基数排序 LSD - Child
  * @param {array[number]} nums
  */
-const radixSortLSDChild = (nums) => {
+const radixSortLSD = (nums) => {
   // 1. 寻找最大值
   let max = nums[0]
   for (const val of nums) {
@@ -50,5 +50,5 @@ function getDigit (num, p = 0) {
 
 
 const nums = [1123, 34, 45, 6, 789]
-radixSortLSDBaby(nums)
+radixSortLSD(nums)
 console.log(nums)
