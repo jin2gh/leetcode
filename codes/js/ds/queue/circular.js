@@ -28,7 +28,7 @@ class SeqQueue {
 }
 
 
-class CircylarQueue { // 循环队列
+class CircularQueue { // 循环队列
   constructor(size) {
     this.front = 0 // 队头指针
     this.rear = 0  // 队尾指针

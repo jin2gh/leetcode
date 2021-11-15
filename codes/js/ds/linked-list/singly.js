@@ -1,6 +1,6 @@
-class SinglyLinkedList {
+class SinglyLL {
   constructor() {
-    this.head = new Node() //
+    this.head = new Node()
     this.size = 0
   }
 
@@ -61,5 +61,5 @@ class Node {
 
 
 module.exports = {
-  SinglyLinkedList,
+  SinglyLL,
 }
