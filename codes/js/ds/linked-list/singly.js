@@ -8,14 +8,6 @@ class SinglyLL {
     return this.size
   }
 
-  find(elem) {
-    let p = this.head
-    while (p && p.dataItem !== elem) {
-      p = p.next
-    }
-    return p
-  }
-
   findKth(index) {
     let p = this.head
     let i = 0
@@ -33,6 +25,7 @@ class SinglyLL {
     if (current) {
       prev.next = current.next
     }
+    return current
   }
 
   insert(index, item) {
@@ -58,7 +51,6 @@ class Node {
     this.next = null
   }
 }
-
 
 module.exports = {
   SinglyLL,
