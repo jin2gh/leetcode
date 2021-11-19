@@ -1,4 +1,4 @@
-const { swap } = require('../utils')
+const { swap } = require('./utils')
 
 const partitionRight = (arr, left ,right) => { // 分区操作，以最右边为基准值
   let pivot = right // 设定基准值（pivot）
