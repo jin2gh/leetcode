@@ -1,5 +1,4 @@
-## Problemset
-记录 LeetCode 的解题、思路。  
+## 基础题解
 
 | 序号 | 难度 | 题名 | 标签 |
 |:---:|:---:|:-----|:----|
@@ -135,39 +134,3 @@
 | 1608* | E | 特殊数组的特征值 | Array |
 | 1672 | E | 最富有客户的资产总量 | Array |
 | 1678 | E | 设计 Goal 解析器 | String |
-| CI0101 | E | 判定字符是否唯一 | Array |
-| CI0102* | E | 判定是否互为字符重排 | Array/String |
-| CI0108* | M | 零矩阵 | Array |
-| CI0803 | E | 魔术索引 | Array/Binary Search |
-| CI0805* | M | 递归乘法 | Recursion |
-| CI1611 | E | 跳水板 | Memoization/Recursion |
-| CI1615* | E | 珠玑妙算 | Array |
-| CI1620 | M | T9 键盘 | Array |
-| CI1701 | E | 不用加号的加法 | Bit Manipulation |
-| CI1704* | E | 消失的数字 | Missing Number | Array/Bit Manipulation/Math |
-| CI1710* | E | 主要元素 | Find Majority Element | Array/Bit Manipulation/Divide and Conquer |
-| OF03 | E | 数组中重复的数字 | Array/Hash Table |
-| OF05 | E | 替换空格 | String |
-| OF06 | E | 从尾到头打印链表 | Linked List |
-| OF17 | E | 打印从1到最大的 n 位数 | Math |
-| OF53* | E | 0～n-1中缺失的数字 | Array/Binary Search |
-| OF58 | E | II. 左旋转字符串 | String |
-| OF64 | M | 求1+2+…+n | - |
-| P01 | E | 猜数字 | - |
-| P06 | E | 拿硬币 | - |
-
-* Binary Search - 二分查找
-* Bit Manipulation - 位操作
-* Brainteaser - 脑筋急转弯
-* Disjoint Sets - 并查集
-* Divide and Conquer - 分治算法
-* Dynamic Programming - 动态规划
-* Geometry - 几何
-* Greedy - 贪心算法
-* Memoization - 记忆化
-* Recursion - 递归
-
-##### 备注
-* OF - 剑指 Offer 系列
-* CI - 面试题系列
-* P - LCP 系列
