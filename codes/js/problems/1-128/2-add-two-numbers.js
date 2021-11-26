@@ -6,11 +6,7 @@ function ListNode(val, next) {
   this.next = (next === undefined ? null : next)
 }
 
-/**
- * @param {ListNode} l1
- * @param {ListNode} l2
- * @return {ListNode}
- */
+
 /**
  * @param {ListNode} l1
  * @param {ListNode} l2
