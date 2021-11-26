@@ -3,6 +3,7 @@
 | 序号 | 难度 | 题名 | 标签 |
 |:---:|:---:|:-----|:----|
 | 1   | E | 两数之和 | Array/Hash Table |
+| 2   | M | 两数相加 | Linked List/Math/Recursion |
 | 9   | E | 回文数 | Math |
 | 11  | M | 盛最多水的容器 | Array/Two Pointers |
 | 12  | M | 整数转罗马数字 | Math/String |
