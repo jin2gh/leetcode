@@ -30,7 +30,8 @@
 | 119* | E | 杨辉三角 II | Array |
 | 121* | E | 买卖股票的最佳时机 | Array/Dynamic Programming |
 | 122* | E | 买卖股票的最佳时机 II | Array/Greedy |
-| 125 | E | 验证回文串 | Two Pointers/String |
+| 125  | E | 验证回文串 | Two Pointers/String |
+| 150  | M | 逆波兰表达式求值 | Array/Math/Stack |
 | 154/OF11 | H | 寻找旋转排序数组中的最小值 II | Array/Binary Search |
 | 167 | E | 两数之和 II - 输入有序数组 | Array/Binary Search/Two Pointers |
 | 169* | E | 多数元素 | Array/Bit Manipulation/Divide and Conquer |
