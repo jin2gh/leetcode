@@ -33,6 +33,7 @@
 | 125  | E | 验证回文串 | Two Pointers/String |
 | 150  | M | 逆波兰表达式求值 | Array/Math/Stack |
 | 154/OF11 | H | 寻找旋转排序数组中的最小值 II | Array/Binary Search |
+| 155 | E | 最小栈 | Design/Stack |
 | 167 | E | 两数之和 II - 输入有序数组 | Array/Binary Search/Two Pointers |
 | 169* | E | 多数元素 | Array/Bit Manipulation/Divide and Conquer |
 | 189* | M | 旋转数组 | Array |
@@ -71,6 +72,7 @@
 | 628* | E | 三个数的最大乘积 | Array/Math |
 | 643* | E | 子数组最大平均数 I | Array |
 | 665* | E | 非递减数列 | Array |
+| 682 | E | 棒球比赛 | Array/Stack/Simulation |
 | 696 | E | 计数二进制子串 | String |
 | 697* | E | 数组的度 | Array |
 | 704 | E | 二分查找 | Binary Search |

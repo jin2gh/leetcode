@@ -20,3 +20,4 @@ LeetCode 算法题。
 * Greedy - 贪心算法
 * Memoization - 记忆化
 * Recursion - 递归
+* Simulation - 模拟
