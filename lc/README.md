@@ -81,6 +81,7 @@
 | 771 | E | 宝石与石头 | Hash Table |
 | 830* | E | 较大分组的位置 | Array |
 | 832 | E | 翻转图像 | Array |
+| 844 | E | 比较含退格的字符串 | Stack/String/Simulation |
 | 860 | E | 柠檬水找零 | Greedy |
 | 867 | E | 转置矩阵 | Array |
 | 896* | E | 单调数列 | Array |
