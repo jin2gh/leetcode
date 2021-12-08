@@ -69,6 +69,7 @@
 | 561* | E | 数组拆分 I | Array |
 | 566* | E | 重塑矩阵 | Array |
 | 605* | E | 种花问题 | Array |
+| 622 | M | 设计循环队列 | Array/Design/Linked List/Queue |
 | 628* | E | 三个数的最大乘积 | Array/Math |
 | 643* | E | 子数组最大平均数 I | Array |
 | 665* | E | 非递减数列 | Array |
