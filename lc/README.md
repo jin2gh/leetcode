@@ -58,6 +58,7 @@
 | 384 | M | 打乱数组 | Array |
 | 389 | E | 找不同 | Bit Manipulation/Hash Table |
 | 392 | E | 判断子序列 | Greedy/Binary Search/Dynamic Programming |
+| 409 | E | 最长回文串 | Greedy/Hash Table/String |
 | 414* | E | 第三大的数 | Array |
 | 415 | E | 字符串相加 | String |
 | 422* | M | 数组中重复的数据 | Array |
