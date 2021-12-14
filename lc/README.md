@@ -41,6 +41,7 @@
 | 215 | M | 数组中的第 K 个最大元素 | Heap/Divide and Conquer |
 | 217 | E | 存在重复元素 | Array/Hash Table |
 | 219* | E | 存在重复元素 II | Array/Hash Table |
+| 224 | H | 基本计算器 | Math/Stack/String/Recursion |
 | 228 | E | 汇总区间 | Array |
 | 238* | M | 除自身以外数组的乘积 | Array |
 | 240* | M | 搜索二维矩阵 II | Binary Search/Divide and Conquer |
