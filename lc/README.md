@@ -38,6 +38,7 @@
 | 169* | E | 多数元素 | Array/Bit Manipulation/Divide and Conquer |
 | 189* | M | 旋转数组 | Array |
 | 205 | E | 同构字符串 | Hash Table |
+| 206 | E | 反转链表 | Linked List/Recursion |
 | 215 | M | 数组中的第 K 个最大元素 | Heap/Divide and Conquer |
 | 217 | E | 存在重复元素 | Array/Hash Table |
 | 219* | E | 存在重复元素 II | Array/Hash Table |
