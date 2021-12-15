@@ -1,4 +1,4 @@
-class SeqQueue {
+class Queue {
   constructor(size) {
     this.front = 0 // 队头指针
     this.rear = 0  // 队尾指针

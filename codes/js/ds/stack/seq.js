@@ -1,4 +1,4 @@
-class SeqStack {
+class Stack {
   constructor(size) {
     this.items = new Array(size)
     this.size = size
