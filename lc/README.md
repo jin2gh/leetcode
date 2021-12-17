@@ -32,6 +32,7 @@
 | 121* | E | 买卖股票的最佳时机 | Array/Dynamic Programming |
 | 122* | E | 买卖股票的最佳时机 II | Array/Greedy |
 | 125  | E | 验证回文串 | Two Pointers/String |
+| 141  | E | 环形链表 | Hash Table/Linked List/Two Pointers |
 | 150  | M | 逆波兰表达式求值 | Array/Math/Stack |
 | 154/OF11 | H | 寻找旋转排序数组中的最小值 II | Array/Binary Search |
 | 155 | E | 最小栈 | Design/Stack |
