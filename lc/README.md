@@ -2,15 +2,12 @@
 
 | 序号 | 难度 | 题名 | 标签 |
 |:---:|:---:|:-----|:----|
-| 1   | E | 两数之和 | Array/Hash Table |
-| 2   | M | 两数相加 | Linked List/Math/Recursion |
 | 9   | E | 回文数 | Math |
 | 11  | M | 盛最多水的容器 | Array/Two Pointers |
 | 12  | M | 整数转罗马数字 | Math/String |
 | 13  | E | 罗马数字转整数 | Math/String |
 | 14  | E | 最长公共前缀 | String |
 | 15* | M | 三数之和 | Array/Two Pointers |
-| 20  | E | 有效的括号 | Stack/String |
 | 26  | E | 删除排序数组中的重复项 | Array/Two Pointers |
 | 27* | E | 移除元素 | Array/Two Pointers |
 | 34/OF53I* | M | 在排序数组中查找元素的第一个和最后一个位置 | Array/Binary Search |
@@ -23,7 +20,6 @@
 | 66  | E | 加一 | Array |
 | 67  | E | 二进制求和 | Math/String |
 | 88* | E | 合并两个有序数组 | Array/Two Pointers |
-| 92  | M | 反转链表 II | Linked List |
 | 100 | E | 相同的树 | Tree/Depth-first Search |
 | 102* | M | 二叉树的层序遍历 | Breadth-first Search/Tree |
 | 104 | E | 二叉树的最大深度 | Depth-first Search/Tree |
@@ -32,20 +28,14 @@
 | 121* | E | 买卖股票的最佳时机 | Array/Dynamic Programming |
 | 122* | E | 买卖股票的最佳时机 II | Array/Greedy |
 | 125  | E | 验证回文串 | Two Pointers/String |
-| 141  | E | 环形链表 | Hash Table/Linked List/Two Pointers |
-| 142  | M | 环形链表 II | Hash Table/Linked List/Two Pointers |
-| 150  | M | 逆波兰表达式求值 | Array/Math/Stack |
 | 154/OF11 | H | 寻找旋转排序数组中的最小值 II | Array/Binary Search |
-| 155 | E | 最小栈 | Design/Stack |
 | 167 | E | 两数之和 II - 输入有序数组 | Array/Binary Search/Two Pointers |
 | 169* | E | 多数元素 | Array/Bit Manipulation/Divide and Conquer |
 | 189* | M | 旋转数组 | Array |
 | 205 | E | 同构字符串 | Hash Table |
-| 206 | E | 反转链表 | Linked List/Recursion |
 | 215 | M | 数组中的第 K 个最大元素 | Heap/Divide and Conquer |
 | 217 | E | 存在重复元素 | Array/Hash Table |
 | 219* | E | 存在重复元素 II | Array/Hash Table |
-| 224 | H | 基本计算器 | Math/Stack/String/Recursion |
 | 228 | E | 汇总区间 | Array |
 | 238* | M | 除自身以外数组的乘积 | Array |
 | 240* | M | 搜索二维矩阵 II | Binary Search/Divide and Conquer |
@@ -58,12 +48,9 @@
 | 303* | E | 区域和检索 - 数组不可变 | Dynamic Programming |
 | 319 | M | 灯泡开关 | Brainteaser/Math |
 | 322* | M | 零钱兑换 | Dynamic Programming |
-| 349* | E | 两个数组的交集 | Binary Search/Hash Table/Sort/Two Pointers |
-| 350 | E | 两个数组的交集 II | Array/Binary Search/Hash Table/Sorting/Two Pointers |
 | 384 | M | 打乱数组 | Array |
 | 389 | E | 找不同 | Bit Manipulation/Hash Table |
 | 392 | E | 判断子序列 | Greedy/Binary Search/Dynamic Programming |
-| 409 | E | 最长回文串 | Greedy/Hash Table/String |
 | 414* | E | 第三大的数 | Array |
 | 415 | E | 字符串相加 | String |
 | 422* | M | 数组中重复的数据 | Array |
@@ -73,14 +60,9 @@
 | 485* | E | 最大连续1的个数 | Array |
 | 495* | M | 提莫攻击 | Array |
 | 509 | E | 斐波那契数 | Array |
-| 561* | E | 数组拆分 I | Array |
 | 566* | E | 重塑矩阵 | Array |
-| 605* | E | 种花问题 | Array |
-| 622 | M | 设计循环队列 | Array/Design/Linked List/Queue |
-| 628* | E | 三个数的最大乘积 | Array/Math |
 | 643* | E | 子数组最大平均数 I | Array |
 | 665* | E | 非递减数列 | Array |
-| 682 | E | 棒球比赛 | Array/Stack/Simulation |
 | 696 | E | 计数二进制子串 | String |
 | 697* | E | 数组的度 | Array |
 | 704 | E | 二分查找 | Binary Search |
@@ -88,10 +70,8 @@
 | 724* | E | 寻找数组的中心索引 | Array |
 | 747* | E | 至少是其他数字两倍的最大数 | Array |
 | 766* | E | 托普利茨矩阵 | Array |
-| 771 | E | 宝石与石头 | Hash Table |
 | 830* | E | 较大分组的位置 | Array |
 | 832 | E | 翻转图像 | Array |
-| 844 | E | 比较含退格的字符串 | Stack/String/Simulation |
 | 860 | E | 柠檬水找零 | Greedy |
 | 867 | E | 转置矩阵 | Array |
 | 896* | E | 单调数列 | Array |

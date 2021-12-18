@@ -3,7 +3,7 @@
  * @param {string} s
  * @return {boolean}
  */
- var isValid = function(s) {
+const isValid = function(s) {
   if (s.length < 2) return false
   const pushHT = {
     '(': ')',
