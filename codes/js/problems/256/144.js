@@ -7,11 +7,28 @@
  * }
  */
 /**
- * 迭代
+ * 递归
  * @param {TreeNode} root
  * @return {number[]}
  */
 const preorderTraversal = function(root) {
+  const res = []
+  const preorder = node => {
+    if (!node) return
+    res.push(node.val)
+    preorder(node.left)
+    preorder(node.right)
+  }
+  preorder(root)
+  return res
+}
+
+/**
+ * 迭代
+ * @param {TreeNode} root
+ * @return {number[]}
+ */
+const preorderTraversal1 = function(root) {
   const res = []
   const stack = []
   if (root) {
