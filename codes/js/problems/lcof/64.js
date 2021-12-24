@@ -1,6 +1,3 @@
-## [求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)
-
-```js
 /**
  * @param {number} n
  * @return {number}
@@ -9,4 +6,3 @@ var sumNums = function(n) {
   n && (n += sumNums(n - 1))
   return n
 }
-```

@@ -1,13 +1,10 @@
-## [打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)
-
-
-```js
 const tenPow = function(n, val = 1) {
   if(n) {
     return tenPow(n - 1, val * 10)
   }
   return val
 }
+
 /**
  * @param {number} n
  * @return {number[]}
@@ -21,4 +18,3 @@ const printNumbers = function(n) {
   }
   return arr
 }
-```

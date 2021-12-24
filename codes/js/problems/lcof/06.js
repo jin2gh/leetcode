@@ -1,7 +1,3 @@
-## [从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)
-
-
-```js
 var reversePrint = function(head, arr=[]) {
   if(head) {
     if(head.next) {
@@ -9,7 +5,6 @@ var reversePrint = function(head, arr=[]) {
       return reversePrint(head.next, arr)
     }
     arr.unshift(head.val)
-  } 
+  }
   return arr
 }
-```
