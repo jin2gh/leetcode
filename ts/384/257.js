@@ -10,7 +10,7 @@
  * @param {TreeNode} root
  * @return {string[]}
  */
- var binaryTreePaths = function(root) {
+var binaryTreePaths = function(root) {
   const res = []
   const dfs = (node, path) => {
     if (node) {
