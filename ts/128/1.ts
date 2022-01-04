@@ -18,17 +18,15 @@ const twoSum = function(nums, target) {
 
 /**
  * 哈希表
- * @param {number[]} nums
- * @param {number} target
- * @return {number[]}
  */
-const twoSum1 = function(nums, target) {
-  const hash = {}
-  for(let i = 0; i < nums.length; i++) {
-    const another = target - nums[i]
-    if (hash[another] >= 0) {
-      return [hash[another], i]
+function twoSum1(nums: number[], target: number): number[] {
+  const map = new Map<number, number>()
+  for (let i = 0; i < nums.length; i++) {
+    const another:number = target - nums[i]
+    if (map.has(another)) {
+      return [map.get(another), i]
     }
-    hash[nums[i]] = i
+    map.set(nums[i], i)
   }
+  return []
 }
