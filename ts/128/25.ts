@@ -13,10 +13,10 @@ class ListNode {
 type LNode = ListNode | null
 
 // 模拟
-function reverseKGroup(head: ListNode | null, k: number): ListNode {
+function reverseKGroup(head: ListNode, k: number): ListNode {
   let dummy: ListNode = new ListNode(1, head)
   let count: number = 0
-  let p: LNode = dummy, h: LNode = head, t: LNode = dummy
+  let p: ListNode = dummy, h: LNode = head, t: LNode = dummy
   while(t) {
     if (count === k) {
       const next: LNode = t.next
@@ -34,9 +34,9 @@ function reverseKGroup(head: ListNode | null, k: number): ListNode {
   return dummy.next
 }
 
-function reverseList(head: ListNode, tail: ListNode | null): [LNode, LNode] {
-  let prev: LNode = tail.next
-  let cur: LNode = head
+function reverseList(head: ListNode, tail: ListNode): [ListNode, ListNode] {
+  let prev: LNode = null
+  let cur: ListNode = head
   while (prev !== tail) {
     const next: LNode = cur.next
     cur.next = prev
