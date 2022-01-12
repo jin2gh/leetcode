@@ -5,6 +5,7 @@
 |:----:|:-:|:------|:-----|
 | 0101 | E | [判定字符是否唯一](https://leetcode-cn.com/problems/is-unique-lcci/) | Array |
 | 0102 | E | [判定是否互为字符重排](https://leetcode-cn.com/problems/check-permutation-lcci/) | Array/String |
+| 0103 | E | [URL化](https://leetcode-cn.com/problems/string-to-url-lcci/) | String |
 | 0108 | M | [零矩阵](https://leetcode-cn.com/problems/zero-matrix-lcci/) | Array |
 | 0803 | E | [魔术索引](https://leetcode-cn.com/problems/magic-index-lcci/) | Array/Binary Search |
 | 0805 | M | [递归乘法](https://leetcode-cn.com/problems/recursive-mulitply-lcci/) | Recursion |
