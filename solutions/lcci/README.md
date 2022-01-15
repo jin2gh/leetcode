@@ -6,7 +6,9 @@
 | 0101 | E | [判定字符是否唯一](https://leetcode-cn.com/problems/is-unique-lcci/) | Array |
 | 0102 | E | [判定是否互为字符重排](https://leetcode-cn.com/problems/check-permutation-lcci/) | Array/String |
 | 0103 | E | [URL化](https://leetcode-cn.com/problems/string-to-url-lcci/) | String |
+| 0106 | E | [字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/) | String/Two Pointers |
 | 0108 | M | [零矩阵](https://leetcode-cn.com/problems/zero-matrix-lcci/) | Array |
+| 0201 | E | [移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) | Hash Table/Linked List/Two Pointers |
 | 0803 | E | [魔术索引](https://leetcode-cn.com/problems/magic-index-lcci/) | Array/Binary Search |
 | 0805 | M | [递归乘法](https://leetcode-cn.com/problems/recursive-mulitply-lcci/) | Recursion |
 | 1001 | E | [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/) | [No.88](../128/88.md)
