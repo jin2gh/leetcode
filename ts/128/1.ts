@@ -20,13 +20,13 @@ const twoSum = function(nums, target) {
  * 哈希表
  */
 function twoSum1(nums: number[], target: number): number[] {
-  const map = new Map<number, number>()
+  const map = {}
   for (let i = 0; i < nums.length; i++) {
     const another:number = target - nums[i]
-    if (map.has(another)) {
-      return [map.get(another), i]
+    if (map[another] >= 0) {
+      return [map[another], i]
     }
-    map.set(nums[i], i)
+    map[nums[i]] = i
   }
   return []
 }

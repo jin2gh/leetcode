@@ -1,3 +1,5 @@
+type twoNums = [number, number] | []
+
 // 桶排序
 function findMinDifference(timePoints: string[]): number {
   const maxCount = 24 * 60
@@ -15,7 +17,7 @@ function findMinDifference(timePoints: string[]): number {
     buckets[idx][idx1] = 1
   }
   const l1 = buckets.length
-  let min = maxCount, prev = [], first = []
+  let min = maxCount, prev: twoNums = [], first: twoNums = []
   for (let i = 0; i < l1; i++) {
     const l2 = buckets[i]?.length || 0
     for (let j = 0; j < l2; j++) {
@@ -35,5 +37,5 @@ function findMinDifference(timePoints: string[]): number {
 };
 
 function computeDiff (next: number[], prev: number[]): number {
-  return ( next[0] - prev[0]) * 60 + next[1] - prev[1]
+  return (next[0] - prev[0]) * 60 + next[1] - prev[1]
 }
