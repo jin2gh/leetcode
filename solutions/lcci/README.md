@@ -7,6 +7,7 @@
 | 0102 | E | [判定是否互为字符重排](https://leetcode-cn.com/problems/check-permutation-lcci/) | Array/String |
 | 0103 | E | [URL化](https://leetcode-cn.com/problems/string-to-url-lcci/) | String |
 | 0104 | E | [回文排列](https://leetcode-cn.com/problems/palindrome-permutation-lcci/) | Bit Manipulation/Hash Table/String |
+| 0105 | M | [一次编辑](https://leetcode-cn.com/problems/one-away-lcci/) | String/Two Pointers |
 | 0106 | E | [字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/) | String/Two Pointers |
 | 0108 | M | [零矩阵](https://leetcode-cn.com/problems/zero-matrix-lcci/) | Array |
 | 0201 | E | [移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) | Hash Table/Linked List/Two Pointers |
