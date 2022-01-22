@@ -11,6 +11,8 @@
 | 0106 | E | [字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/) | String/Two Pointers |
 | 0108 | M | [零矩阵](https://leetcode-cn.com/problems/zero-matrix-lcci/) | Array |
 | 0201 | E | [移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) | Hash Table/Linked List/Two Pointers |
+| 0301 | E | [三合一](https://leetcode-cn.com/problems/three-in-one-lcci/) | Array/Design/Stack |
+| 0302 | E | [栈的最小值](https://leetcode-cn.com/problems/min-stack-lcci/) | [No.155](../256/155.md) |
 | 0803 | E | [魔术索引](https://leetcode-cn.com/problems/magic-index-lcci/) | Array/Binary Search |
 | 0805 | M | [递归乘法](https://leetcode-cn.com/problems/recursive-mulitply-lcci/) | Recursion |
 | 1001 | E | [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/) | [No.88](../128/88.md) |
