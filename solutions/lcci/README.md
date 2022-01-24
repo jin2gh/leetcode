@@ -9,6 +9,7 @@
 | 0104 | E | [回文排列](https://leetcode-cn.com/problems/palindrome-permutation-lcci/) | Bit Manipulation/Hash Table/String |
 | 0105 | M | [一次编辑](https://leetcode-cn.com/problems/one-away-lcci/) | String/Two Pointers |
 | 0106 | E | [字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/) | String/Two Pointers |
+| 0107 | M | [旋转矩阵](https://leetcode-cn.com/problems/rotate-matrix-lcci/) | [No.48](../128/48.md) |
 | 0108 | M | [零矩阵](https://leetcode-cn.com/problems/zero-matrix-lcci/) | Array |
 | 0201 | E | [移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) | Hash Table/Linked List/Two Pointers |
 | 0301 | E | [三合一](https://leetcode-cn.com/problems/three-in-one-lcci/) | Array/Design/Stack |
