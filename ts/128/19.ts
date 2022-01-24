@@ -1,15 +1,6 @@
-/**
- * Definition for singly-linked list.
- * function ListNode(val, next) {
- *   this.val = (val===undefined ? 0 : val)
- *   this.next = (next===undefined ? null : next)
- * }
- */
-/**
- * @param {ListNode} head
- * @param {number} n
- * @return {ListNode}
- */
+import { ListNode } from "../class"
+
+// 双指针
 const removeNthFromEnd = function(head, n) {
   const dummy = new ListNode(-1, head)
   let front = head

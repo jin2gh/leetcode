@@ -1,3 +1,5 @@
+import { ListNode } from '../class'
+
 // 模拟
 function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): ListNode | null {
   let carry = 0
