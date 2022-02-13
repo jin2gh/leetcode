@@ -1,9 +1,5 @@
-/**
- * 哈希表
- * @param {string} s
- * @return {number}
- */
-const longestPalindrome = function(s) {
+// 哈希表
+function longestPalindrome(s: string): number {
   if (s.length < 2) return s.length
   let len = 0, odd = false
   const ht = {}
