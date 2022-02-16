@@ -1,6 +1,6 @@
-function fib(n: number): number {
+export function fib(n: number): number {
   if (n < 2) return n
-  const M:number = 1000000007
+  const M: number = 1000000007
   let s1: number = 0, s2: number = 1, temp: number
   for (let i = 2; i <= n; i++) {
     temp = s2
