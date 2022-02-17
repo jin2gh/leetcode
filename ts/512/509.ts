@@ -1,8 +1,7 @@
 // 尾递归
-// function fib(n, fib1 = 1, fib2 = 1) {
+// function fib(n, fib1 = 0, fib2 = 1) {
 //   if (n <= 0) return 0
-//   if (n === 1) return fib1
-//   if (n === 2) return fib2
+//   if (n === 1) return fib2
 //   return fib(n - 1, fib2, fib1 + fib2)
 // };
 
