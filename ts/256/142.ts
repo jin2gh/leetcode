@@ -1,9 +1,7 @@
-/**
- * 哈希表
- * @param {ListNode} head
- * @return {ListNode}
- */
-const detectCycle = function(head) {
+import { ListNode } from '../class'
+
+// 哈希表
+function detectCycle(head: ListNode | null): ListNode | null {
   const ht = new Set()
   while (head) {
     if (ht.has(head)) return head
@@ -12,27 +10,23 @@ const detectCycle = function(head) {
   }
 
   return null
-}
+};
 
-/**
- * 双指针
- * @param {ListNode} head
- * @return {ListNode}
- */
-const detectCycle1 = function(head) {
+// 双指针
+function detectCycle1(head: ListNode | null): ListNode | null {
   let fast = head, slow = head
   while (fast) {
     if (!fast.next) return null
     fast = fast.next.next
-    slow = slow.next
-    if (slow === fast) {
+    slow = slow ? slow.next : null
+    if (fast === slow) {
       let cur = head
       while (cur !== slow) {
-        cur = cur.next
-        slow = slow.next
+        cur = cur ? cur.next : null
+        slow = slow ? slow?.next : null
       }
       return cur
     }
   }
   return null
-}
+};
