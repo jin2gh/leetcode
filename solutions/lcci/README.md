@@ -17,7 +17,7 @@
 | 0204 | M | [分割链表](https://leetcode-cn.com/problems/partition-list-lcci/) | Linked List/Two Pointers |
 | 0205 | M | [链表求和](https://leetcode-cn.com/problems/sum-lists-lcci/) | [No.2](../128/2.md) |
 | 0206 | E | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list-lcci/) | Linked List/Recursion/Stack/Two Pointers |
-| 0207 | E | [链表相交](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/) | Hash Table/Linked List/Two Pointers |
+| 0207 | E | [链表相交](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/) | [No.160](../256/160.md) |
 | 0208 | M | [环路检测](https://leetcode-cn.com/problems/linked-list-cycle-lcci/) | [No.142](../256/142.md) |
 | 0301 | E | [三合一](https://leetcode-cn.com/problems/three-in-one-lcci/) | Array/Design/Stack |
 | 0302 | E | [栈的最小值](https://leetcode-cn.com/problems/min-stack-lcci/) | [No.155](../256/155.md) |
