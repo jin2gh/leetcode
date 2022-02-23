@@ -22,7 +22,7 @@ function isVaild (str: string): boolean {
     if (isNumber(str[i])) return false
     if (isSign(str[i]) && i < idx) return false
     if (str[i] === '-') {
-      if (hyphen || !isLetter(str[i - 1]) || !isLetter(str[i + 1])) return false
+      if (hyphen || !isLowerLetter(str[i - 1]) || !isLowerLetter(str[i + 1])) return false
       hyphen += 1
     }
   }
@@ -33,7 +33,7 @@ function isSign(s: string): boolean {
   return s === '!' || s === ',' || s === '.'
 }
 
-function isLetter(s: string): boolean {
+function isLowerLetter(s: string): boolean {
   return s >= 'a' && s <= 'z'
 }
 
