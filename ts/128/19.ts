@@ -1,17 +1,17 @@
 import { ListNode } from "../class"
 
 // 双指针
-const removeNthFromEnd = function(head, n) {
+function removeNthFromEnd(head: ListNode | null, n: number): ListNode | null {
   const dummy = new ListNode(-1, head)
-  let front = head
-  let back = dummy
-  for (let i = 0; i < n; i++) {
-    front = front.next
+  let fast = head, slow = dummy, i = 0
+  while (i < n) {
+    fast = fast.next
+    i += 1
   }
-  while (front) {
-    back = back.next
-    front = front.next
+  while (fast) {
+    fast = fast.next
+    slow = slow.next
   }
-  back.next = back.next.next
+  slow.next = slow.next.next
   return dummy.next
 };
