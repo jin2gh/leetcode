@@ -39,3 +39,15 @@ export class Node {
     this.next = (next===undefined ? null : next)
   }
 }
+
+/**
+ * Definition for a n-ary tree node.
+ */
+export class NAryTreeNode {
+  val: number
+  children: NAryTreeNode[]
+  constructor(val?: number) {
+    this.val = (val===undefined ? 0 : val)
+    this.children = []
+  }
+}
