@@ -1,7 +1,7 @@
 import { ListNode } from '../class'
 
 // 迭代
-function mergeTwoLists(list1: ListNode | null, list2: ListNode | null): ListNode | null {
+export function mergeTwoLists(list1: ListNode | null, list2: ListNode | null): ListNode | null {
   const dummy = new ListNode(-1)
   let cur = dummy
   while (list1 || list2) {
