@@ -13,7 +13,10 @@
 | 10ii | E | [青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | 类[No.70](../128/70.md) |
 [ 11   | E | [旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [No.154](../256/154.md) |
 | 12   | M | [矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [No.79](../128/79.md) |
+| 16   | M | [数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | [No.50](../128/50.md) |
 | 17   | E | [打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | - |
+| 25   | E | [合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | [No.21](../128/21.md) |
+| 27   | E | [二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | [No.226](../256/226.md) |
 | 29   | E | [顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [No.54](../128/54.md) |
 | 33   | M | [二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) | - |
 | 53i  | E | [在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | [No.34](../128/34.md) |
@@ -21,4 +24,5 @@
 | 54   | E | [搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | - |
 | 55ii | E | [平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/) | [No.110](../128/110.md) |
 | 58ii | E | [左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | - |
+| 63   | M | [股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/) | [No.121](../128/121.md) |
 | 64   | M | [求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) | - |
