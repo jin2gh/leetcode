@@ -16,8 +16,11 @@
 | 13   | E | [机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | - |
 | 14i  | M | [剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [No.343](../384/343.md) |
 | 14ii | M | [剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/) | - |
+| 15   | E | [二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [No.191](../256/191.md) |
 | 16   | M | [数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | [No.50](../128/50.md) |
 | 17   | E | [打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | - |
+| 18   | E | [删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | - |
+| 24   | E | [反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | [No.206](../256/206.md) |
 | 25   | E | [合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | [No.21](../128/21.md) |
 | 27   | E | [二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | [No.226](../256/226.md) |
 | 29   | E | [顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [No.54](../128/54.md) |

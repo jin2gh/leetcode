@@ -14,8 +14,6 @@ function movingCount(m: number, n: number, k: number): number {
           queue.push([nx, ny])
           ans += 1
           visited[nx][ny] = 1
-        } else {
-          visited[nx][ny] = 2
         }
       }
     }
