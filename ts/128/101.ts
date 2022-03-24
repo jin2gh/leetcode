@@ -15,7 +15,7 @@ function isSymmetric(root: TreeNode | null): boolean {
 
 // 迭代
 function isSymmetric1(root: TreeNode | null): boolean {
-  const check = (left: TreeNode | null, right: TreeNode | null) => {
+  const check = (left: TreeNode | null, right: TreeNode | null): boolean => {
     const queue: (TreeNode | null)[] = [left, right]
     while (queue.length) {
       const l = queue.shift()
