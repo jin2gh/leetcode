@@ -32,7 +32,10 @@
 | M | [33](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) | - |
 | H | [37](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/) | [No.297](../384/297.md) |
 | E | [39](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [No.169](../256/169.md) |
+| E | [40](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | - |
+| E | [42](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [No.53](../128/53.md) |
 | M | [48](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | [No.3](../128/3.md) |
+| E | [50](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | 类[No.387](../512/387.md) |
 | E | [53.I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | [No.34](../128/34.md) |
 | E | [53.II](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) | - |
 | E | [54](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | - |
