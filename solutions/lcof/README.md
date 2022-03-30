@@ -47,6 +47,9 @@
 | E | [55.II](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/) | [No.110](../128/110.md) |
 | E | [57.I](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | 类[No.167](../256/167.md) |
 | E | [57.II](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | - |
+| E | [58.I](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | [No.151](../256/151.md) |
 | E | [58.II](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | - |
+| E | [61](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | - |
 | M | [63](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/) | [No.121](../128/121.md) |
 | M | [64](https://leetcode-cn.com/problems/qiu-12n-lcof/) | - |
+| E | [65](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/) | [CI.1701](../lcci/1701.md) |
