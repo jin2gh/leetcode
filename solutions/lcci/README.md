@@ -27,6 +27,6 @@
 | 1611 | E | [跳水板](https://leetcode-cn.com/problems/diving-board-lcci/) | Memoization/Recursion |
 | 1615 | E | [珠玑妙算](https://leetcode-cn.com/problems/master-mind-lcci/) | Array |
 | 1620 | M | [T9 键盘](https://leetcode-cn.com/problems/t9-lcci/) | Array |
-| 1701 | E | [不用加号的加法](https://leetcode-cn.com/problems/add-without-plus-lcci/submissions/) | Bit Manipulation |
+| 1701 | E | [不用加号的加法](https://leetcode-cn.com/problems/add-without-plus-lcci/) | Bit Manipulation |
 | 1704 | E | [消失的数字](https://leetcode-cn.com/problems/missing-number-lcci/) | Array/Bit Manipulation/Math |
 | 1710 | E | [主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci/) | Array/Bit Manipulation/Divide and Conquer |
