@@ -29,8 +29,9 @@
 | E | [28](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | [No.101](../128/101.md) |
 | E | [29](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [No.54](../128/54.md) |
 | E | [30](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) | [No.155](../256/155.md) |
-| E | [32.I](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | - |
-| M | [32.II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | [No.102](../128/102.md) |
+| M | [32.I](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | - |
+| E | [32.II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | [No.102](../128/102.md) |
+| M | [32.III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/) | [No.103](../128/103.md) |
 | M | [33](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) | - |
 | H | [37](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/) | [No.297](../384/297.md) |
 | E | [39](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [No.169](../256/169.md) |
@@ -50,6 +51,9 @@
 | E | [58.I](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | [No.151](../256/151.md) |
 | E | [58.II](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | - |
 | E | [61](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | - |
+| E | [62](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | 类[No.1823](../1920/1823.md) |
 | M | [63](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/) | [No.121](../128/121.md) |
 | M | [64](https://leetcode-cn.com/problems/qiu-12n-lcof/) | - |
 | E | [65](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/) | [CI.1701](../lcci/1701.md) |
+| E | [68.I](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/) | [NO.235](../256/235.md) |
+| E | [68.II](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/) | [No.236](../256/236.md) |

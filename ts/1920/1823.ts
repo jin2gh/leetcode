@@ -9,6 +9,15 @@ function findTheWinner(n: number, k: number): number {
   return ans + 1
 };
 
+// 从 0 开始版本
+// function findTheWinner(n: number, k: number): number {
+//   let ans = 0
+//   for (let i = 2; i <= n; i++) {
+//     ans = (ans + k) % i
+//   }
+//   return ans
+// };
+
 // 数学公式 2
 function findTheWinner1(n: number, k: number): number {
   if (k === 1) return n
