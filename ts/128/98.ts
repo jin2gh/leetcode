@@ -1,5 +1,5 @@
 import { TreeNode } from '../class'
-import { inorderTraversalIterative as inorder } from '../128/94'
+import { iterativeInorderTraversal as inorder } from '../128/94'
 
 // 中序遍历
 function isValidBST(root: TreeNode): boolean {

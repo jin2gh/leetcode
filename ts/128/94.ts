@@ -15,7 +15,7 @@ function inorderTraversal(root: TreeNode | null): number[] {
 
 
 // 迭代
-export function inorderTraversalIterative(root: TreeNode | null): number[] {
+export function iterativeInorderTraversal(root: TreeNode | null): number[] {
   const res: number[] = []
   const stack: TreeNode[] = []
   let node: TreeNode | null = root
@@ -31,4 +31,4 @@ export function inorderTraversalIterative(root: TreeNode | null): number[] {
     }
   }
   return res
- };
+};
