@@ -23,6 +23,7 @@
 | 0301 | E | [三合一](https://leetcode-cn.com/problems/three-in-one-lcci/) | Array/Design/Stack |
 | 0302 | E | [栈的最小值](https://leetcode-cn.com/problems/min-stack-lcci/) | [No.155](../256/155.md) |
 | 0304 | E | [化栈为队](https://leetcode-cn.com/problems/implement-queue-using-stacks-lcci/) | [No.232](../256/232.md) |
+| 0306 | E | [动物收容所](https://leetcode-cn.com/problems/animal-shelter-lcci/) | - |
 | 0803 | E | [魔术索引](https://leetcode-cn.com/problems/magic-index-lcci/) | Array/Binary Search |
 | 0805 | M | [递归乘法](https://leetcode-cn.com/problems/recursive-mulitply-lcci/) | Recursion |
 | 1001 | E | [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/) | [No.88](../128/88.md) |
