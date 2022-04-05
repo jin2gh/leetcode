@@ -8,7 +8,7 @@ function hammingWeight(n: number): number {
 };
 
 // 位运算优化
-function hammingWeight1(n: number): number {
+export function hammingWeightV1(n: number): number {
   let ans = 0
   while (n) {
     n &= n - 1
