@@ -1,10 +1,6 @@
-/**
- * @param {string} s
- * @return {number}
- */
- const calculate = function(s) {
+function calculate(s: string): number {
   return evalRPN(infixToSuffix(s))
-}
+};
 
 // 中缀表达式转后缀表达式，题目已说明 s 是有效的表达式
 function infixToSuffix(s) {
@@ -93,14 +89,3 @@ function compute(stack, type) {
   }
   stack.pop()
 }
-
-const vals = [
-  "-(-3 + ( 4+ 5 ))",
-  "1-(-2)",
-  "2147483647",
-  "235 + 1"
-]
-
-vals.map((item, idx) => {
-  console.log(`val${idx}=`, calculate(item));
-})
