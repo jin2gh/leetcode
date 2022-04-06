@@ -20,6 +20,7 @@
 | M | [16](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | [No.50](../128/50.md) |
 | E | [17](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | - |
 | E | [18](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | - |
+| H | [19](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/) | [No.10](../128/10.md) |
 | M | [20](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/solution/) | - |
 | E | [21](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | - |
 | E | [22](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | - |
@@ -33,6 +34,7 @@
 | E | [32.II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | [No.102](../128/102.md) |
 | M | [32.III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/) | [No.103](../128/103.md) |
 | M | [33](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) | - |
+| M | [34](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | [No.113](../128/113.md) |
 | H | [37](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/) | [No.297](../384/297.md) |
 | E | [39](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [No.169](../256/169.md) |
 | E | [40](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | - |
