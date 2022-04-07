@@ -11,7 +11,7 @@
 | 0106 | E | [字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/) | String/Two Pointers |
 | 0107 | M | [旋转矩阵](https://leetcode-cn.com/problems/rotate-matrix-lcci/) | [No.48](../128/48.md) |
 | 0108 | M | [零矩阵](https://leetcode-cn.com/problems/zero-matrix-lcci/) | [No.73](../128/73.md) |
-| 0109 | E | [字符串轮转](https://leetcode-cn.com/problems/string-rotation-lcci/) | String/String Matching |
+| 0109 | E | [字符串轮转](https://leetcode-cn.com/problems/string-rotation-lcci/) | [No.796](../896/796.md) |
 | 0201 | E | [移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) | Hash Table/Linked List/Two Pointers |
 | 0202 | E | [返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/) | 类[No.19](../128/19.md) |
 | 0203 | E | [删除中间节点](https://leetcode-cn.com/problems/delete-middle-node-lcci/) | - |
