@@ -1,10 +1,7 @@
-/**
- * @param {string} command
- * @return {string}
- */
-const interpret = function(command) {
+function interpret(command: string): string {
+  const len = command.length
   let str = '', i = 0
-  while (i < command.length) {
+  while (i < len) {
     if (command[i] === '(') {
       if (command[i + 1] === 'a') {
         str += 'al'
@@ -13,9 +10,9 @@ const interpret = function(command) {
         str += 'o'
         i += 1
       }
-    } else {
-      str += command[i]
     }
+    else str += command[i]
     i += 1
   }
-}
+  return str
+};

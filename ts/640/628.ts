@@ -1,9 +1,4 @@
-// maximum-product-of-three-numbers
-/**
- * @param {number[]} nums
- * @return {number}
- */
-const maximumProduct = function(nums) {
+function maximumProduct(nums: number[]): number {
   let max1, max2, max3, min1, min2
   for (let n of nums) {
     if (max1 === undefined || n >= max1) {
@@ -26,4 +21,4 @@ const maximumProduct = function(nums) {
   }
 
   return Math.max(max1 * max2 * max3, max1 * min1 * min2)
-}
+};
