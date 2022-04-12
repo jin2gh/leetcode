@@ -1,4 +1,4 @@
-import { numberHT } from '../interface'
+import { numberHT } from '../interfaces'
 
 function minSetSize(arr: number[]): number {
   const len = arr.length, ht: numberHT = {}

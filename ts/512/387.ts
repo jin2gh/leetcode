@@ -1,6 +1,4 @@
-interface numsHT {
-  [propName: string]: [number, number]
-}
+import { numsHT } from '../interfaces'
 
 // 哈希表
 function firstUniqChar(s: string): number {

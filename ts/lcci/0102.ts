@@ -1,9 +1,8 @@
-interface HT {
-  [propName: string]: number
-}
+import { numberHT } from '../interfaces'
+
 function CheckPermutation(s1: string, s2: string): boolean {
   if (s1.length !== s2.length) return false
-  const ht: HT = {}
+  const ht: numberHT = {}
   const len: number = s1.length
   for (let i = 0; i < len; i++) {
     if (ht[s1[i]]) {
