@@ -1,3 +1,5 @@
+import { isLowercase } from '../utils'
+
 // 分治
 function longestNiceSubstring(s: string): string {
   const sLen = s.length
@@ -9,7 +11,7 @@ function longestNiceSubstring(s: string): string {
     if (start >= end) return
     let lower = 0, upper = 0
     for (let i = start; i <= end; i++) {
-      if (s[i] >= 'a' && s[i] <= 'z') {
+      if (isLowercase(s[i])) {
         lower |= 1 << (s.charCodeAt(i) - num_a)
       } else {
         upper |= 1 << (s.charCodeAt(i) - num_A)

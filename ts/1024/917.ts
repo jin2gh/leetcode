@@ -1,11 +1,13 @@
+import { isLetter } from '../utils'
+
 function reverseOnlyLetters(s: string): string {
   const ans: string[] = [...s]
   let i = 0, j = s.length - 1
   while (i < j) {
-    while (i < j && !isLetters(ans[i])) {
+    while (i < j && !isLetter(ans[i])) {
       i += 1
     }
-    while (i < j && !isLetters(ans[j])) {
+    while (i < j && !isLetter(ans[j])) {
       j -= 1
     }
     if (i >= j) break
@@ -16,7 +18,3 @@ function reverseOnlyLetters(s: string): string {
 
   return ans.join('')
 };
-
-function isLetters(c: string): boolean {
-  return (c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z')
-}
