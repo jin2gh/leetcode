@@ -26,6 +26,7 @@
 | E | [22](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | - |
 | E | [24](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | [No.206](../256/206.md) |
 | E | [25](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | [No.21](../128/21.md) |
+| M | [26](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | - |
 | E | [27](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | [No.226](../256/226.md) |
 | E | [28](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | [No.101](../128/101.md) |
 | E | [29](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [No.54](../128/54.md) |
