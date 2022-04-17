@@ -9,5 +9,6 @@ function majorityElement(nums: number[]): number {
     }
     n === v ? count += 1 : count -= 1
   }
+  // if (count === 0) return -1 // 不存在的情况
   return n
 };
