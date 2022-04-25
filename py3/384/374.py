@@ -4,15 +4,15 @@
 # def guess(num: int) -> int:
 
 class Solution:
-  def guessNumber(self, n: int) -> int:
-    l, r = 1, n
-    while(l < r):
-      m = l + (r - l) // 2
-      ans = guess(m)
-      if ans == 0:
-        return m
-      elif ans == 1:
-        l = m + 1
-      else:
-        r = m
-    return l
+    def guessNumber(self, n: int) -> int:
+        l, r = 1, n
+        while(l < r):
+            m = l + (r - l) // 2
+            ans = guess(m)
+            if ans == 0:
+                return m
+            elif ans == 1:
+                l = m + 1
+            else:
+                r = m
+        return l
