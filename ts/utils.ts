@@ -10,6 +10,10 @@ export function isLetter(c: string): boolean {
   return isLowercase(c) || isUppercase(c)
 }
 
+export function isDigit(ch: string): boolean {
+  return ch >= '0' && ch <= '9'
+}
+
 export function swap(nums: number[], l: number, r: number): void {
   const temp = nums[l]
   nums[l] = nums[r]
