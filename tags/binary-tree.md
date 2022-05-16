@@ -27,3 +27,5 @@
 + [两数之和 IV - 输入 BST](../solutions/768/653.md)
 + [二叉搜索树中的搜索](../solutions/768/700.md)
 + [二叉搜索树中的插入操作](../solutions/768/701.md)
+
++ [后继者](../solutions/lcci/0406.md)

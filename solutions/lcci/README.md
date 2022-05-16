@@ -26,6 +26,7 @@
 | 0306 | E | [动物收容所](https://leetcode.cn/problems/animal-shelter-lcci/) | - |
 | 0402 | E | [最小高度树](https://leetcode.cn/problems/minimum-height-tree-lcci/) | [No.108](../128/108.md) |
 | 0404 | E | [检查平衡性](https://leetcode.cn/problems/check-balance-lcci/) | [No.110](../128/110.md) |
+| 0406 | M | [后继者](https://leetcode.cn/problems/successor-lcci/) | - |
 | 0803 | E | [魔术索引](https://leetcode.cn/problems/magic-index-lcci/) | Array/Binary Search |
 | 0805 | M | [递归乘法](https://leetcode.cn/problems/recursive-mulitply-lcci/) | Recursion |
 | 1001 | E | [合并排序的数组](https://leetcode.cn/problems/sorted-merge-lcci/) | [No.88](../128/88.md) |
