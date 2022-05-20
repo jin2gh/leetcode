@@ -10,10 +10,10 @@ class Solution:
                 return -1
             while l < r:
                 m = l + (r - l) // 2
-                if intervals[m][0] == v[1]: # 每个区间的 start 都是唯一的，当 start == end，一定是最小的
+                if intervals[m][0] == x: # 每个区间的 start 都是唯一的，当 start == end，一定是最小的
                     r = m
                     break
-                if intervals[m][0] < v[1]:
+                if intervals[m][0] < x:
                     l = m + 1
                 else:
                     r = m
