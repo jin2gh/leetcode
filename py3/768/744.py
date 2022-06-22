@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def nextGreatestLetter(self, letters: List[str], target: str) -> str:
         l, r = 0, len(letters) - 1

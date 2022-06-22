@@ -4,6 +4,7 @@ class TreeNode:
         self.val = val
         self.left = left
         self.right = right
+
 class Solution:
     def isUnivalTree(self, root: TreeNode) -> bool:
         val = root.val

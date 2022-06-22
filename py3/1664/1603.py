@@ -1,5 +1,4 @@
 class ParkingSystem:
-
     def __init__(self, big: int, medium: int, small: int):
         self._db = {
             1: [0, big],

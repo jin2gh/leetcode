@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def average(self, salary: List[int]) -> float:
         max_num, min_num = max(salary), min(salary)

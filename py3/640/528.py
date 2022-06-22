@@ -2,7 +2,6 @@ from typing import List
 from random import randint
 
 class Solution:
-
     def __init__(self, w: List[int]):
         self.pres = [w[0]]
         self.sum = w[0]
