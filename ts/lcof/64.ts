@@ -1,7 +1,9 @@
 function sumNums(n: number): number {
-  const getSum = (n: number, sum: number): number => {
-    if (n === 0) return sum
-    return getSum(n - 1, sum + n)
+  let sum = 0
+  const sums = (n: number): number => {
+    n && sums(n - 1)
+    sum += n
+    return sum
   }
-  return getSum(n, 0)
+  return sums(n)
 };
