@@ -33,6 +33,6 @@
 | 1611 | E | [跳水板](https://leetcode.cn/problems/diving-board-lcci/) | Memoization/Recursion |
 | 1615 | E | [珠玑妙算](https://leetcode.cn/problems/master-mind-lcci/) | Array |
 | 1620 | M | [T9 键盘](https://leetcode.cn/problems/t9-lcci/) | Array |
-| 1701 | E | [不用加号的加法](https://leetcode.cn/problems/add-without-plus-lcci/) | Bit Manipulation |
+| 1701 | E | [不用加号的加法](https://leetcode.cn/problems/add-without-plus-lcci/) | 类[No.371](../384/371.md) |
 | 1704 | E | [消失的数字](https://leetcode.cn/problems/missing-number-lcci/) | [No.268](../384/268.md) |
 | 1710 | E | [主要元素](https://leetcode.cn/problems/find-majority-element-lcci/) | [No.169](../256/169.md) |
