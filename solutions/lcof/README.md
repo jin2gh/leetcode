@@ -59,5 +59,6 @@
 | M | [63](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof/) | [No.121](../128/121.md) |
 | M | [64](https://leetcode.cn/problems/qiu-12n-lcof/) | - |
 | E | [65](https://leetcode.cn/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/) | 类[No.371](../384/371.md) |
+| M | [66](https://leetcode.cn/problems/gou-jian-cheng-ji-shu-zu-lcof/) | - |
 | E | [68.I](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/) | [NO.235](../256/235.md) |
 | E | [68.II](https://leetcode.cn/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/) | [No.236](../256/236.md) |
