@@ -3,7 +3,7 @@
 #include "../structs.h"
 
 struct ListNode* removeNthFromEnd(struct ListNode* head, int n){
-  struct ListNode* dummy = malloc(sizeof(struct ListNode));
+  struct ListNode* dummy = (struct ListNode*)malloc(sizeof(struct ListNode));
   dummy->val = -1, dummy->next = head;
   struct ListNode* fast = head;
   struct ListNode* slow = dummy;

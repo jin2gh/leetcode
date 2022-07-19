@@ -4,7 +4,7 @@
 
 
 struct ListNode* mergeTwoLists(struct ListNode* list1, struct ListNode* list2){
-  struct ListNode* dummy = malloc(sizeof(struct ListNode));
+  struct ListNode* dummy = (struct ListNode*)malloc(sizeof(struct ListNode));
   dummy->next = NULL;
   struct ListNode* ptr = dummy;
   while (list1 && list2) {

@@ -6,7 +6,7 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize){
     int another = target - nums[i];
     for (int j = i + 1; j < numsSize; j++) {
       if (nums[j] == another) {
-        int* res = malloc(sizeof(int) * 2);
+        int* res = (int*)malloc(sizeof(int) * 2);
         res[0] = i;
         res[1] = j;
         *returnSize = 2;
